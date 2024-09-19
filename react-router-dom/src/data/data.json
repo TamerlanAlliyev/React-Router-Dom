@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 750
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1200
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "Wireless Earbuds",
+      "price": 150
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "name": "Gaming Console",
+      "price": 400
+    },
+    {
+      "id": 7,
+      "name": "Smart TV",
+      "price": 1000
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "price": 200
+    },
+    {
+      "id": 9,
+      "name": "Drone",
+      "price": 800
+    },
+    {
+      "id": 10,
+      "name": "VR Headset",
+      "price": 600
+    }
+  ]
+  
